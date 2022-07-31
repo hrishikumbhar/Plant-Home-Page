@@ -18,4 +18,4 @@
 
 ### Screenshot :
 
-![](./screenshot/Screenshot%20(21).png)
+![](./screenshot/PROJ-6.png)
